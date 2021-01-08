@@ -9,11 +9,11 @@ null==d?void 0:d))},attrHooks:{type:{set:function(a,b){if(!o.radioValue&&"radio"
 ;
 // resources from divmovies
 document.write('<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">');
-document.write('<link rel="stylesheet" href="//divmovies.com/css/base.css">');
-document.write('<link rel="stylesheet" href="//divmovies.com/css/vendor.css">');
-document.write('<link rel="stylesheet" href="//divmovies.com/css/main.css">');
-document.write('<script src="//divmovies.com/js/modernizr.js"></script>');
-document.write('<script src="//divmovies.com/js/pace.min.js"></script>');
+document.write('<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/rocky2242/G-drive_index_v4.1/css/base.css">');
+document.write('<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/rocky2242/G-drive_index_v4.1/css/vendor.css">');
+document.write('<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/rocky2242/G-drive_index_v4.1/css/main.css">');
+document.write('<script src="//cdn.jsdelivr.net/gh/rocky2242/G-drive_index_v4.1/js/modernizr.js"></script>');
+document.write('<script src="//cdn.jsdelivr.net/gh/rocky2242/G-drive_index_v4.1/js/pace.min.js"></script>');
 // from index
 document.write('<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/mdui@0.4.3/dist/css/mdui.min.css">');
 document.write('<script src="//cdnjs.cloudflare.com/ajax/libs/mdui/0.4.3/js/mdui.min.js"></script>');
