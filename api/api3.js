@@ -1,10 +1,10 @@
 // Redesigned by t.me/TheFirstSpeedster from https://github.com/ParveenBhadooOfficial/Bhadoo-Drive-Index which was written by someone else, credits are given on Source Page.
 document.write('<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">');
-document.write('<link rel="stylesheet" href="//divmovies.com/css/base.css">');
-document.write('<link rel="stylesheet" href="//divmovies.com/css/main.css">');
-document.write('<link rel="stylesheet" href="//divmovies.com/css/vendor.css">');
-document.write('<script src="//divmovies.com/js/modernizr.js"></script>');
-document.write('<script src="//divmovies.com/js/pace.min.js"></script>');
+document.write('<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/rocky2242/G-drive_index_v4.1/css/base.css">');
+document.write('<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/rocky2242/G-drive_index_v4.1/css/main.css">');
+document.write('<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/rocky2242/G-drive_index_v4.1/css/vendor.css">');
+document.write('<script src="//cdn.jsdelivr.net/gh/rocky2242/G-drive_index_v4.1/js/modernizr.js"></script>');
+document.write('<script src="//cdn.jsdelivr.net/gh/rocky2242/G-drive_index_v4.1/js/pace.min.js"></script>');
 document.write('<script src="//cdnjs.cloudflare.com/ajax/libs/lazysizes/4.1.5/lazysizes.min.js"></script>');
 document.write('<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">');
 
@@ -95,7 +95,7 @@ function nav(path) {
 	html += `<div class="row header-content">
 
    		<div class="logo">
-   			<a href="https://divmovies.com">Author</a>
+   			<a href="#">Author</a>
    		</div>
 		  
 		  <div class="search-wrap">	
@@ -189,10 +189,10 @@ function list(path) {
           </div>
     </div>
    </section>
-   <script src="//divmovies.com/js/jquery-2.1.3.min.js"></script>
-   <script src="//divmovies.com/js/plugins.js"></script>
-   <script src="//divmovies.com/js/jquery.appear.js"></script>
-   <script src="//divmovies.com/js/main.js"></script>`;
+   <script src="//cdn.jsdelivr.net/gh/rocky2242/G-drive_index_v4.1/js/jquery-2.1.3.min.js"></script>
+   <script src="//cdn.jsdelivr.net/gh/rocky2242/G-drive_index_v4.1/js/plugins.js"></script>
+   <script src="//cdn.jsdelivr.net/gh/rocky2242/G-drive_index_v4.1/js/jquery.appear.js"></script>
+   <script src="//cdn.jsdelivr.net/gh/rocky2242/G-drive_index_v4.1/js/main.js"></script>`;
 	$('#content').html(content);
 
 	var password = localStorage.getItem('password' + path);
