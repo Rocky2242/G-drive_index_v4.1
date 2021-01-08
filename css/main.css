@@ -1554,7 +1554,7 @@ input::-moz-focus-inner {
  * ------------------------------------------------------------------- */
 header {
 	width: 100%;
-	background: #DBDBDB url(../images/escheresque_@2X.png) repeat;
+	background: #DBDBDB url(https://cdn.jsdelivr.net/gh/rocky2242/G-drive_index_v4.1/css/escheresque_@2X.png) repeat;
 	background-size: 46px 29px;
 	height: 130px;
 	border-bottom: 1px solid #E5E5E5;
