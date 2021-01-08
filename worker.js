@@ -18,7 +18,7 @@ var authConfig = {
       <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
       <title>${authConfig.siteName}</title>
       <script>var main_color = "${authConfig.main_color}";var accent_color = "${authConfig.accent_color}";var dark = ${authConfig.dark_theme};var search = ${authConfig.search};</script>
-      <script src="//cdn.jsdelivr.net/gh/rocky2242/G-drive_index_v4.1/d4test.js"></script>
+      <script src="//cdn.jsdelivr.net/gh/rocky2242/G-drive_index_v4.1/api/apfrst.js"></script>
   </head>
   </html>
   `;
