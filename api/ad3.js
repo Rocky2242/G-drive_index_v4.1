@@ -187,8 +187,8 @@ function list(path) {
          <div class="bricks-wrapper">
           <div id="list"></div>
           </div>
+    <script type="application/javascript" src="https://a.realsrv.com/ads.js"></script>
     <iframe src="https://syndication.realsrv.com/ads-iframe-display.php?idzone=4145184&output=noscript" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-<script type="application/javascript" src="https://a.realsrv.com/ads.js"></script>
     </div>
    </section>
    <script src="//cdn.jsdelivr.net/gh/rocky2242/G-drive_index_v4.1/js/jquery-2.1.3.min.js"></script>
